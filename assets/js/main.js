@@ -80,7 +80,7 @@ async function homePage() {
                                 class="img d-flex justify-content-center align-items-center"
                                 style="width: 50%"
                             >
-                                <img src="/assets/img/biden.jfif" alt="" />
+                                <img src="./img/biden.jfif" alt="" />
                             </div>
                             <div
                                 class="info text-white d-flex flex-column align-items-end"
@@ -128,7 +128,7 @@ async function homePage() {
                                 class="img d-flex justify-content-center align-items-center"
                                 style="width: 50%"
                             >
-                                <img src="/assets/img/trump.jpg" alt="" />
+                                <img src="./img/trump.jpg" alt="" />
                             </div>
                         </div>
                     </div>
